@@ -4,8 +4,8 @@ import numpy as np
 import os
 
 # ==================== 設定參數 ====================
-IMAGE_PATH = '.\\211365.jpg'  # 換成你想標記的圖片路徑
-OUTPUT_CSV = 'pixel_samples.csv'
+IMAGE_PATH = '.\\309972.jpg'  # 換成你想標記的圖片路徑
+OUTPUT_CSV = 'pixel_samples2.csv'
 # ==================================================
 
 # 儲存採樣數據: [R, G, B, Label, X, Y]

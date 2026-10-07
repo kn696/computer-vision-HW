@@ -4,7 +4,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # 1. 讀取 CSV 資料
-csv_file = 'pixel_samples.csv'
+csv_file = 'pixel_samples2.csv'
 df = pd.read_csv(csv_file)
 
 # 2. 將 RGB 轉為 OpenCV 的 HSV 格式
